@@ -1,0 +1,28 @@
+/* Tailwind v4 → import in your main CSS, after @import "tailwindcss"; */
+@theme {
+  /* Brand palette */
+  --color-colonix-navy: #394A6D;
+  --color-colonix-teal: #3C9D9B;
+  --color-colonix-emerald: #52DE97;
+  --color-colonix-mint: #C0FFB3;
+
+  /* UI colors used in the screens */
+  --color-bg-base: #1C2638;
+  --color-panel: #25334A;
+  --color-panel-raised: #2C3C56;
+  --color-border: #364968;
+  --color-border-subtle: #334155;
+  --color-green-deep: #022C22;
+  --color-text: #F1F5F9;
+  --color-text-soft: #E2E8F0;
+  --color-text-muted: #94A3B8;
+  --color-text-faint: #CBD5E1;
+  --color-blue-gray: #7E9BB8;
+  --color-accent-teal: #339989;
+  --color-accent-green: #4CE08A;
+  --color-accent-mint: #B8F9A6;
+  --color-warning: #FBBF24;
+
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
