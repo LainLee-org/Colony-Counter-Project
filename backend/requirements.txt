@@ -1,0 +1,6 @@
+fastapi==0.162.4
+uvicorn[standard]==0.54.0
+inference-sdk==1.8.4
+pillow==12.3.0
+python-multipart==0.0.33
+python-dotenv==1.2.4
